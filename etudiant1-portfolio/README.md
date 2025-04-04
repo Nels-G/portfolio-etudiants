@@ -27,6 +27,6 @@ L'objectif principal de ce projet était de créer un portfolio moderne et fonct
 
 Voici un aperçu du site :
 
-![Aperçu du Portfolio Mazigue](chemin/vers/une/capture/d'écran.jpg)
+\images\screenshot_04_04_2025 00-29-48.png
 
 ## Lien vers la Démo
